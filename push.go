@@ -1,4 +1,4 @@
-package phx
+package phx2
 
 import (
 	"sync"

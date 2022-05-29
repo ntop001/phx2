@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"github.com/nshafer/phx"
+	"github.com/ntop001/phx"
 	"io"
 	"net/url"
 	"os"

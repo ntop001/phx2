@@ -1,3 +1,3 @@
-package phx
+package phx2
 
 type any = interface{}

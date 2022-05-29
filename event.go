@@ -1,4 +1,4 @@
-package phx
+package phx2
 
 // Event represents a phoenix channel event for a message, and can be almost anything the user wants, such as "ping",
 // "shout", "talk", etc. There are several reserved for control messages for protocol overhead.
