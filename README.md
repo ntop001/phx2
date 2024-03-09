@@ -1,5 +1,8 @@
 # Phx - A Phoenix Channels client for Go
 
+BUG:
+Can not Disconnect socket, panic when reconnection.
+
 [![Go Reference](https://pkg.go.dev/badge/github.com/nshafer/phx.svg)](https://pkg.go.dev/github.com/nshafer/phx)
 
 This is a comprehensive client for Phoenix Channels written for Go applications.
