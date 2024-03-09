@@ -411,6 +411,9 @@ func (w *Websocket) sendReconnect() {
 	if w.reconnecting || w.closing {
 		return
 	}
+	if !w.started {
+		return
+	}
 
 	w.reconnecting = true
 	w.reconnect <- true
